@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DineshMSDian
-- 👀 I’m interested in Android Devolopng
+- 👀 I’m interested in Android Devoloping
 - 🌱 I’m currently learning About Custom Rom Building
 - 📫 How to reach me: Telegram @DineshMSDian
 
